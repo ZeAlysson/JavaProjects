@@ -20,7 +20,7 @@ public class introExercicio {
             notas[i] = entradaDados.nextDouble();
         }
 
-        System.out.println(Arrays.toString(notas));//mostra os valores lidos no for acima
+        System.out.println(Arrays.toString(notas));//mostra as notas lidas no for acima
 
         //calcula a soma das notas
         double somaTotal = 0;
