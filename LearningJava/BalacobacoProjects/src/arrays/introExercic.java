@@ -3,7 +3,7 @@ package arrays;
 import java.util.Arrays;
 import java.util.Scanner;
 
-public class introExercicio {
+public class introExercic {
     public static void main(String[] args) {
         
         Scanner entradaDados = new Scanner(System.in);
