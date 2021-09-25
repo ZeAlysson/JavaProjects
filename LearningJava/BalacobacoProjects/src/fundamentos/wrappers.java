@@ -13,8 +13,8 @@ public class wrappers {
         System.out.println(i*3);
         System.out.println(l/1000);
 
-        Float f = 123.5F;
-        Double d = 8134.23;
+        //Float f = 123.5F;
+        //Double d = 8134.23;
 
         Boolean bo = true;
         System.out.println(bo);

@@ -13,6 +13,7 @@ public class entradaDados {
 
         System.out.println("Seu nome e: " + nome);
 
+        dados.close();
     }
 
 }

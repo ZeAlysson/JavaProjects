@@ -1,7 +1,7 @@
 package fundamentos;
 
-import javax.swing.JButton;
-import java.util.Date;
+//import javax.swing.JButton;
+//import java.util.Date;
 
 public class notacaoPonto {
 
@@ -18,9 +18,9 @@ public class notacaoPonto {
 
         System.out.println(frase2.toUpperCase());
 
-        Date date = new Date();
+        //Date date = new Date();
 
-        JButton botao = new JButton();
+        //JButton botao = new JButton();
 
 
     }
