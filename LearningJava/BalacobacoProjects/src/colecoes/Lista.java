@@ -2,7 +2,7 @@ package colecoes;
 
 import java.util.ArrayList;
 
-public class Lista {
+public class Lista { 
     public static void main(String[] args) {
         
         ArrayList<Usuario> lista = new ArrayList<Usuario>();
